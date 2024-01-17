@@ -1,38 +1,13 @@
-<p align="center"><img src="https://i.imgur.com/BgFze6G.png"></p>
+# Download Torrent files from ClientBitTorrent made with Electron and NextJs
+![Example](https://github.com/guimaraesdev0/BitTorrent-Nextron/blob/main/print.jpg?raw=true)
 
-## Usage
+## How to run?
+``
+ yarn add i | yarn dev
+``
 
-### Create an App
+## Made with
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="50" height="50" />](https://nextjs.org/)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="50" height="50" />](https://tailwindcss.com/)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50" />](https://github.com/saltyshiomix/nextron)
 
-```
-# with npx
-$ npx create-nextron-app my-app --example basic-store-data
-
-# with yarn
-$ yarn create nextron-app my-app --example basic-store-data
-
-# with pnpm
-$ pnpm dlx create-nextron-app my-app --example basic-store-data
-```
-
-### Install Dependencies
-
-```
-$ cd my-app
-
-# using yarn or npm
-$ yarn (or `npm install`)
-
-# using pnpm
-$ pnpm install --shamefully-hoist
-```
-
-### Use it
-
-```
-# development mode
-$ yarn dev (or `npm run dev` or `pnpm run dev`)
-
-# production build
-$ yarn build (or `npm run build` or `pnpm run build`)
-```
